@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="756.0" prefWidth="981.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewConroller.DashboardController">
+   <children>
+      <Label layoutX="498.0" prefHeight="56.0" prefWidth="429.0" text="  Public Library Aluthgama" textFill="#2c12a1">
+         <font>
+            <Font name="System Bold" size="33.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="119.0" fitWidth="154.0" layoutX="927.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/librarylogo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="517.0" fitWidth="976.0" layoutX="135.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/library.jpg" />
+         </image>
+      </ImageView>
+      <AnchorPane layoutX="225.0" layoutY="342.0" opacity="0.75" prefHeight="365.0" prefWidth="582.0" style="-fx-background-color: gray;">
+         <children>
+            <Label layoutX="28.0" layoutY="139.0" prefHeight="47.0" prefWidth="211.0" text="Students Details" textFill="#252424">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <Label layoutX="347.0" layoutY="145.0" prefHeight="35.0" prefWidth="231.0" text="Reserve Books" textFill="#252424">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <Label layoutX="28.0" layoutY="315.0" prefHeight="35.0" prefWidth="218.0" text="Book Details" textFill="#252424">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <Label layoutX="354.0" layoutY="330.0" prefHeight="35.0" prefWidth="218.0" text="Damage Books" textFill="#252424">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="StudentDetailsBtn" fitHeight="142.0" fitWidth="129.0" layoutX="42.0" layoutY="5.0" onMouseClicked="#OpenStudentDetails" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/Student.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="ReserveBookBtn" fitHeight="137.0" fitWidth="129.0" layoutX="364.0" layoutY="16.0" onMouseClicked="#OpenReserveBooks" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/publisher.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="Bookdetailsbtn" fitHeight="119.0" fitWidth="119.0" layoutX="42.0" layoutY="196.0" onMouseClicked="#OpenBookdetails" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/book.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="129.0" fitWidth="196.0" layoutX="351.0" layoutY="197.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="DamageBookBtn" fitHeight="119.0" fitWidth="129.0" layoutX="364.0" layoutY="196.0" onMouseClicked="#OpenDamageBooks" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/damage.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

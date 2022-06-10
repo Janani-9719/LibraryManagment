@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="860.0" prefWidth="1288.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewController.SearchBooksController">
+   <children>
+      <Label alignment="CENTER" layoutX="413.0" layoutY="24.0" prefHeight="51.0" prefWidth="462.0" style="-fx-background-color: blue;" text="Search Books" textFill="#fffdfd">
+         <font>
+            <Font name="System Bold" size="34.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="129.0" prefHeight="31.0" prefWidth="124.0" text="Search Book">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtSearch" layoutX="226.0" layoutY="129.0" onAction="#SerchBook" prefHeight="31.0" prefWidth="225.0" />
+      <JFXTextField fx:id="txtBatchNo" labelFloat="true" layoutX="43.0" layoutY="357.0" prefHeight="38.0" prefWidth="174.0" promptText="Batch No">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <ComboBox fx:id="comboBook" layoutX="227.0" layoutY="203.0" onAction="#searchAll" onMouseClicked="#SearchBookComboMouseClick" prefHeight="31.0" prefWidth="203.0" />
+      <Label layoutX="36.0" layoutY="203.0" prefHeight="31.0" prefWidth="163.0" text="Search book name">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="792.0" layoutY="806.0" opacity="0.0" prefHeight="31.0" prefWidth="150.0" text="Receive Date">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="ReceiveDate" layoutX="951.0" layoutY="806.0" opacity="0.0" prefHeight="31.0" prefWidth="244.0" />
+      <JFXTextField fx:id="txtAuthor" labelFloat="true" layoutX="45.0" layoutY="433.0" prefHeight="38.0" prefWidth="275.0" promptText="Author">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtPublisher" labelFloat="true" layoutX="45.0" layoutY="516.0" prefHeight="38.0" prefWidth="275.0" promptText="Publisher">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtPages" labelFloat="true" layoutX="43.0" layoutY="656.0" prefHeight="38.0" prefWidth="174.0" promptText="pages">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="43.0" layoutY="600.0" prefHeight="31.0" prefWidth="150.0" text="Publish Date">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="publisherDate" layoutX="225.0" layoutY="600.0" prefHeight="31.0" prefWidth="244.0" />
+      <JFXTextField fx:id="txtPrice" labelFloat="true" layoutX="831.0" layoutY="802.0" opacity="0.0" prefHeight="38.0" prefWidth="174.0" promptText="Price">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtSupplier" labelFloat="true" layoutX="486.0" layoutY="802.0" opacity="0.0" prefHeight="38.0" prefWidth="284.0" promptText="Supplier">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="55.0" layoutY="821.0" opacity="0.0" prefHeight="31.0" prefWidth="150.0" text="Remove date">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="RemoveDate" layoutX="197.0" layoutY="821.0" opacity="0.0" prefHeight="31.0" prefWidth="244.0" />
+      <JFXTextField fx:id="txtOther" labelFloat="true" layoutX="40.0" layoutY="733.0" prefHeight="31.0" prefWidth="305.0" promptText="Other">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtCatagory" labelFloat="true" layoutX="36.0" layoutY="803.0" prefHeight="38.0" prefWidth="275.0" promptText="Catagory">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <AnchorPane layoutX="705.0" layoutY="129.0" prefHeight="234.0" prefWidth="493.0" style="-fx-background-color: lightBlue;">
+         <children>
+            <Label layoutX="83.0" layoutY="24.0" prefHeight="31.0" prefWidth="124.0" text="Rack No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtRackNo" layoutX="239.0" layoutY="24.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="65.0" prefHeight="31.0" prefWidth="124.0" text="Row No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtRowNo" layoutX="239.0" layoutY="65.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="108.0" prefHeight="31.0" prefWidth="124.0" text="Coloum No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtColoumNo" layoutX="239.0" layoutY="108.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="151.0" prefHeight="31.0" prefWidth="124.0" text="Dv.Decimal">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtDvDecimal" layoutX="239.0" layoutY="151.0" prefHeight="31.0" prefWidth="105.0" />
+         </children>
+      </AnchorPane>
+      <JFXTextField fx:id="txtMatchiningNo" labelFloat="true" layoutX="43.0" layoutY="281.0" prefHeight="38.0" prefWidth="174.0" promptText="Machining No">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <ImageView fitHeight="434.0" fitWidth="696.0" layoutX="592.0" layoutY="383.0" opacity="0.62" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/searchBook.jpg" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="697.0" layoutY="405.0" prefHeight="38.0" prefWidth="356.0" text="Rules  of Library">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="471.0" prefHeight="38.0" prefWidth="404.0" text="*  Users must therefore maintain silence at all times">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="509.0" prefHeight="38.0" prefWidth="634.0" text="* Users must observe copyright regulations and provision in respect of all library items">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="554.0" prefHeight="38.0" prefWidth="618.0" text="*  They can only use items in the library, with the permission of the Registrar.">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="600.0" prefHeight="38.0" prefWidth="618.0" text="*  Loss or damage of any library items must be immediately reported to the library.">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="637.0" prefHeight="38.0" prefWidth="618.0" text="* Mobile telephones must be switched off and may not be used in the reading room">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="599.0" layoutY="694.0" prefHeight="38.0" prefWidth="618.0" text="* No library item shall be taken out of the Library without due procedure">
+         <font>
+            <Font name="Arial Black" size="13.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

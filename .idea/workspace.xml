@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1343928822">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="23" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="622" />
+          <entry key="properties" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="622" />
+          <entry key="Properties" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1316894363">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/PositionBOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2278">
+              <caret line="144" selection-start-line="144" selection-end-line="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/PositionServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookStudentDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+              <folding>
+                <element signature="e#2189#2190#0" expanded="true" />
+                <element signature="e#2219#2220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/BookStudentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/SubmitBookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewStudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/server/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/AddBookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#1671#1672#0" expanded="true" />
+                <element signature="e#1699#1700#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ViewStudent.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/AuthorBOImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/AuthorServiceImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/AuthorRepository.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/CrudRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/Proxy/ProxyHandler.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookDTO.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewStudentController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/server/Main.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/StudentRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/entity/Student.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/DamageDTO.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/StudentBOImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/DamageRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/AuthorRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookAuthorDTO.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookStudentDTO.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/CategoryDTO.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/DamageBOImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/BookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/BookBO.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/service/custom/BookService.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyStudentsController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/AddBookController.java" />
+        <option value="$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/PositionDTO.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewDamageBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/View/SearchBooks.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/Main/StartUp.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/Proxy/ProxyHandler.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/ViewController/SearchBooksController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/AddDamageBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/AddDamageBook.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ViewBooks.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ModifyStudents.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/SubmitBook.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ReportsController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/Reports.fxml" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/BookAuthorRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyDamageBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ReserveBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/BookRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/BookBOImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/StudentBookRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/PositionRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/BookStudentBOImpl.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/SubmitBookController.java" />
+        <option value="$PROJECT_DIR$/LibraryManagement_Server/src/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LibraryManagementNewOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibraryManagementNewOne" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611170943242" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.LibraryManagement.Proxy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LibraryManagementNewOne\LibraryManagementNewOne\LibraryManagement_Client\src\lk\ijse\LibraryManagement\Report" />
+      <recent name="D:\LibraryManagementNewOne\LibraryManagementNewOne\LibraryManagement_Client2(Student)\src\lk\ijse\LibraryManagement\Images" />
+      <recent name="D:\LibraryManagementNewOne\LibraryManagementNewOne\LibraryManagement_Client\src\lk\ijse\LibraryManagement\View" />
+      <recent name="C:\Users\acer\IdeaProjects\LibraryManagement\LibraryManagement_Server\src" />
+      <recent name="C:\Users\acer\IdeaProjects\LibraryManagement\LibraryManagement_Client\src\lk\ijse\LibraryManagement\Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartUp">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.LibraryManagement.Abc" />
+      <module name="LibraryManagement_Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.LibraryManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.LibraryManagement.server.Main" />
+      <module name="LibraryManagement_Server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.LibraryManagement.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="LibraryManagement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.LibraryManagement.Main.StartUp" />
+      <module name="Student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.LibraryManagement.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.LibraryManagement.Main.StartUp" />
+      <module name="LibraryManagement_Client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.LibraryManagement.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Student" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Student" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StartUp" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Abc" />
+      <item itemvalue="Application.StartUp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartUp" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.StartUp (1)" />
+        <item itemvalue="Application.Abc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1544444357570" duration="8306000" />
+      <workItem from="1544511025216" duration="11608000" />
+      <workItem from="1544624101531" duration="7895000" />
+      <workItem from="1544636947868" duration="6000" />
+      <workItem from="1544674328312" duration="14014000" />
+      <workItem from="1544763448009" duration="751000" />
+      <workItem from="1544794790406" duration="6234000" />
+      <workItem from="1544813863893" duration="2421000" />
+      <workItem from="1544888996809" duration="7691000" />
+      <workItem from="1544942616971" duration="39694000" />
+      <workItem from="1544992730692" duration="54000" />
+      <workItem from="1545030307683" duration="14406000" />
+      <workItem from="1545106236449" duration="1483000" />
+      <workItem from="1545140929973" duration="4012000" />
+      <workItem from="1545188586197" duration="31031000" />
+      <workItem from="1545229371908" duration="619000" />
+      <workItem from="1545230035046" duration="107000" />
+      <workItem from="1545230173424" duration="22149000" />
+      <workItem from="1545289777976" duration="23022000" />
+      <workItem from="1545323636170" duration="14000" />
+      <workItem from="1545405502322" duration="787000" />
+      <workItem from="1545406519965" duration="1634000" />
+      <workItem from="1545409402775" duration="15223000" />
+      <workItem from="1545455616432" duration="26001000" />
+      <workItem from="1545499539203" duration="650000" />
+      <workItem from="1545544589568" duration="7503000" />
+      <workItem from="1545570545936" duration="11412000" />
+      <workItem from="1545982627009" duration="4715000" />
+      <workItem from="1611170546874" duration="95000" />
+      <workItem from="1611170931190" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="264965000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22995462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.021186441" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36245954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.056497175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Changes" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3299712" />
+      <window_info active="true" anchor="bottom" id="Messages" order="15" visible="true" weight="0.32847896" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.13671875" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.057068743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.6685879" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="152" selection-start-line="131" selection-start-column="7" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewDamageBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/BookAuthorBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/Images/a.java" />
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/Proxy/a.java" />
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/View/a.java" />
+    <entry file="file://$PROJECT_DIR$/Student/src/lk/ijse/LibraryManagement/View/SearchBooks.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="204" selection-start-line="13" selection-start-column="204" selection-end-line="13" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client2(Student)/src/lk/ijse/LibraryManagement/Main/a.java" />
+    <entry file="file://$PROJECT_DIR$/Student/src/lk/ijse/LibraryManagement/Main/StartUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/AddStudent.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student/src/lk/ijse/LibraryManagement/Proxy/ProxyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/Main/StartUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="1" selection-start-line="24" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/AddBook.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student/src/lk/ijse/LibraryManagement/ViewController/SearchBooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/AddDamageBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="291" column="5" selection-start-line="291" selection-start-column="5" selection-end-line="291" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/DashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/AddDamageBook.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="40" column="125" lean-forward="true" selection-start-line="40" selection-start-column="125" selection-end-line="40" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyStudentsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="264" column="9" lean-forward="true" selection-start-line="264" selection-start-column="9" selection-end-line="264" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ModifyDamageBooks.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ViewStudent.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ViewBooks.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ModifyBook.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/SubmitBook.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/Reports.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="218" selection-start-line="7" selection-start-column="218" selection-end-line="7" selection-end-column="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/LibraryDashboard.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ReportsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/View/ModifyStudents.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/Report/Student.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyDamageBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/BookAuthorRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/BookServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ModifyBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="115" column="44" selection-start-line="115" selection-start-column="44" selection-end-line="115" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/BookBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ReserveBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="143" column="54" selection-start-line="143" selection-start-column="54" selection-end-line="143" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/BookRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/StudentBookRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/BookStudentBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/RepositoryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/entity/BookStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/repo/custom/impl/PositionRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/business/custom/impl/PositionBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/PositionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookStudentDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+          <folding>
+            <element signature="e#2189#2190#0" expanded="true" />
+            <element signature="e#2219#2220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/service/custom/impl/BookStudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/SubmitBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/ViewStudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librarymanagement_Common/src/lk/ijse/LibraryManagement/dto/BookDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Server/src/lk/ijse/LibraryManagement/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryManagement_Client/src/lk/ijse/LibraryManagement/ViewConroller/AddBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LibraryManagement_Server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.6-bin1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

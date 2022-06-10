@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="671.0" prefWidth="936.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewConroller.AddStudentController">
+   <children>
+      <Label fx:id="addStu" alignment="CENTER" layoutX="31.0" layoutY="24.0" prefHeight="52.0" prefWidth="284.0" style="-fx-background-color: gray;" text="Add Student" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="btnViewStudent" alignment="CENTER" layoutX="697.0" layoutY="24.0" onMouseClicked="#openViewStudent" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: blue;" text="View Student" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="btnModifyStudent" alignment="CENTER" layoutX="340.0" layoutY="24.0" onMouseClicked="#openModifyStudent" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: blue;" text="Modify Student" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="134.0" fitWidth="124.0" layoutX="1059.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/librarylogo.png" />
+         </image>
+      </ImageView>
+      <JFXTextField fx:id="txtRegisterNo" labelFloat="true" layoutX="40.0" layoutY="147.0" prefHeight="0.0" prefWidth="225.0" promptText="Register No">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtName" labelFloat="true" layoutX="40.0" layoutY="239.0" prefHeight="38.0" prefWidth="339.0" promptText="Name">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtAddress" labelFloat="true" layoutX="40.0" layoutY="317.0" prefHeight="38.0" prefWidth="339.0" promptText="Address">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="40.0" layoutY="398.0" prefHeight="31.0" prefWidth="150.0" text="Birth Day">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="BirthDay" layoutX="193.0" layoutY="398.0" prefHeight="31.0" prefWidth="244.0" />
+      <JFXTextField fx:id="txtGrade" labelFloat="true" layoutX="40.0" layoutY="474.0" prefHeight="0.0" prefWidth="225.0" promptText="Grade">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXTextField>
+      <JFXButton fx:id="btnHome" buttonType="RAISED" layoutX="681.0" layoutY="595.0" onMouseClicked="#openHome" prefHeight="41.0" prefWidth="177.0" style="-fx-background-color: green;" text="Home" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnAddStudent" buttonType="RAISED" layoutX="916.0" layoutY="595.0" onMouseClicked="#AddStudent" prefHeight="41.0" prefWidth="187.0" style="-fx-background-color: blue;" text="Add Student" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <ImageView fx:id="picImg" fitHeight="176.0" fitWidth="234.0" layoutX="693.0" layoutY="151.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="imgtxtbtn" alignment="CENTER" contentDisplay="CENTER" layoutX="688.0" layoutY="109.0" onMouseClicked="#imgbtnMouseClick" prefHeight="38.0" prefWidth="244.0" text="Click Here For Add Image">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

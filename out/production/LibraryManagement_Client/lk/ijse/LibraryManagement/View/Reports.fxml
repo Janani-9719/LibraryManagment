@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="656.0" prefWidth="668.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewConroller.ReportsController">
+   <children>
+      <Label layoutX="256.0" layoutY="25.0" prefHeight="51.0" prefWidth="157.0" text="Reports" textFill="#fffbfb">
+         <font>
+            <Font name="System Bold" size="35.0" />
+         </font>
+      </Label>
+      <Label fx:id="stuDetails" alignment="CENTER" layoutX="124.0" layoutY="165.0" onMouseClicked="#studentdetailsReport" prefHeight="51.0" prefWidth="422.0" style="-fx-background-color: blue;" text="Student Details Report" textFill="#eeeaea">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="bookDetail" alignment="CENTER" layoutX="124.0" layoutY="277.0" onMouseClicked="#BookDetailsReport" prefHeight="51.0" prefWidth="422.0" style="-fx-background-color: blue;" text="Book Details Report" textFill="#eeeaea">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="authorDetals" alignment="CENTER" layoutX="124.0" layoutY="385.0" onMouseClicked="#AuthorDetailsReport" prefHeight="51.0" prefWidth="422.0" style="-fx-background-color: blue;" text="Author Details Reports" textFill="#eeeaea">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="positiondetails" alignment="CENTER" layoutX="124.0" layoutY="485.0" onMouseClicked="#PositionDetailsreport" prefHeight="51.0" prefWidth="422.0" style="-fx-background-color: blue;" text="Position Details Reports" textFill="#eeeaea">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

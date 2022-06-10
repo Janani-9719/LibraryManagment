@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="706.0" prefWidth="1040.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewConroller.ViewReservationController">
+   <children>
+      <Label fx:id="btnReserveBook" alignment="CENTER" layoutX="36.0" layoutY="34.0" onMouseClicked="#OpenreserveBook" prefHeight="52.0" prefWidth="284.0" style="-fx-background-color: blue;" text="Reserve Book" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="btnViewReservation" alignment="CENTER" layoutX="681.0" layoutY="34.0" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: gray;" text="View Reservation" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="btnSumbitBook" alignment="CENTER" layoutX="334.0" layoutY="34.0" onMouseClicked="#ViewSubmitBook" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: blue;" text="Submit Books" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="134.0" fitWidth="124.0" layoutX="1039.0" layoutY="19.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/librarylogo.png" />
+         </image>
+      </ImageView>
+      <TableView fx:id="tblReservation" layoutX="103.0" layoutY="185.0" prefHeight="336.0" prefWidth="927.0">
+        <columns>
+          <TableColumn prefWidth="115.0" text="Reg. Id" />
+          <TableColumn prefWidth="195.0" text="Name" />
+            <TableColumn prefWidth="183.0" text="Machining Id" />
+            <TableColumn prefWidth="145.0" text="Book Name" />
+            <TableColumn prefWidth="145.0" text="Borrow Date" />
+            <TableColumn prefWidth="143.0" text="Return Date" />
+        </columns>
+      </TableView>
+      <JFXButton fx:id="btnView" buttonType="RAISED" layoutX="921.0" layoutY="613.0" onMouseClicked="#ViewReservation" prefHeight="41.0" prefWidth="187.0" style="-fx-background-color: blue;" text="View" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnHome" buttonType="RAISED" layoutX="693.0" layoutY="613.0" onMouseClicked="#openHome" prefHeight="41.0" prefWidth="187.0" style="-fx-background-color: green;" text="Home" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

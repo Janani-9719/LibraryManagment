@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.3.1.final using JasperReports Library version 6.3.1  -->
+<!-- 2018-12-23T14:27:40 -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Student" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1894c89a-1dac-4478-a25a-d63e8585085c">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="Library"/>
+	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
+	<queryString>
+		<![CDATA[select * from student]]>
+	</queryString>
+	<field name="sid" class="java.lang.Integer"/>
+	<field name="address" class="java.lang.String"/>
+	<field name="bday" class="java.lang.String"/>
+	<field name="grade" class="java.lang.String"/>
+	<field name="name" class="java.lang.String"/>
+	<field name="photo" class="java.lang.String"/>
+	<field name="regId" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="130" y="12" width="300" height="48" uuid="d8858afc-e5d0-4ed4-92bf-45d27108a2f2"/>
+				<textElement textAlignment="Center">
+					<font size="18" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Students Details]]></text>
+			</staticText>
+			<line>
+				<reportElement x="190" y="40" width="184" height="1" uuid="f76a4ae8-593c-4811-95dd-b657873dcf7c"/>
+			</line>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="81" height="30" uuid="e2f4d5c9-5718-4c03-8edf-2bd894c84fa9"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[sid]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="81" y="0" width="79" height="30" uuid="79a77d22-d8b3-419b-a30c-0e29b41b9a24"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[address]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="160" y="0" width="79" height="30" uuid="5933b65e-51e0-4bf7-af7d-24a9031f1613"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[bday]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="239" y="0" width="79" height="30" uuid="e1fd56aa-334c-4b6d-9d4a-347836c628f5"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[grade]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="318" y="0" width="79" height="30" uuid="a29ce05c-9de8-42c2-91e6-3b46932775de"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[name]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="397" y="0" width="79" height="30" uuid="d0573923-97cf-4fb0-8971-de208edd7c96"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[photo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="476" y="0" width="79" height="30" uuid="c1b20043-77a8-4a0f-aaed-6e6141f76200"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[regId]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="81" width="81" height="30" uuid="ad19206d-2d15-4ef3-b7bd-4cdbcede978c"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{sid}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="81" y="81" width="79" height="30" uuid="23bd75a9-18fc-47de-96c6-1b46d52f36f2"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{address}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="81" width="79" height="30" uuid="657241fd-cef6-4b87-9659-66e678798a60"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{bday}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="239" y="81" width="79" height="30" uuid="5202fd86-84fd-4e05-af7e-4c0f4d7c5871"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{grade}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="318" y="81" width="79" height="30" uuid="211c76df-7cc1-458c-aa69-9713ce17152a"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="397" y="81" width="79" height="30" uuid="1136995a-d117-454a-889a-e7ee69b19cce"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{photo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="476" y="81" width="79" height="30" uuid="efecc2f7-dd2c-480a-ac2b-b2d93b07da4a"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$F{regId}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="708.0" prefWidth="1040.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.LibraryManagement.ViewConroller.AddBookController">
+   <children>
+      <Label fx:id="AddBookbtn" alignment="CENTER" layoutX="33.0" layoutY="19.0" prefHeight="52.0" prefWidth="284.0" style="-fx-background-color: gray;" text="Add Book" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="viewBookbtn" alignment="CENTER" layoutX="683.0" layoutY="19.0" onMouseClicked="#openViewBook" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: blue;" text="View Books" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="modifyBookbtn" alignment="CENTER" layoutX="336.0" layoutY="19.0" onMouseClicked="#openModifyBook" prefHeight="52.0" prefWidth="333.0" style="-fx-background-color: blue;" text="Modify Book" textFill="#e4e2e2">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="134.0" fitWidth="124.0" layoutX="1039.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/librarylogo.png" />
+         </image>
+      </ImageView>
+      <ComboBox fx:id="comboAuther" layoutX="186.0" layoutY="88.0" onAction="#SelectAutherActionPerform" onMouseClicked="#SelectAutherMouseClick" prefWidth="150.0" />
+      <Label layoutX="38.0" layoutY="88.0" prefHeight="31.0" prefWidth="141.0" text="Select Author">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="27.0" layoutY="142.0" prefHeight="92.0" prefWidth="333.0" style="-fx-border-color: blue;">
+         <children>
+            <JFXTextField fx:id="txtAuthor" layoutX="14.0" layoutY="32.0" prefHeight="29.0" prefWidth="188.0" promptText="New Author" />
+            <JFXButton fx:id="btnAddAuthor" layoutX="214.0" layoutY="38.0" onMouseClicked="#AddNewAuthor" prefHeight="31.0" prefWidth="105.0" style="-fx-background-color: blue;" text="Add" textFill="#f5f3f3">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <JFXTextField fx:id="txtMatchiningNo" labelFloat="true" layoutX="28.0" layoutY="256.0" prefHeight="29.0" prefWidth="188.0" promptText="Machining No.">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtBatchNo" labelFloat="true" layoutX="254.0" layoutY="263.0" prefHeight="29.0" prefWidth="188.0" promptText="Batch No.">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtBookName" labelFloat="true" layoutX="28.0" layoutY="310.0" prefHeight="29.0" prefWidth="188.0" promptText="Book Name">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtPublisher" labelFloat="true" layoutX="28.0" layoutY="354.0" prefHeight="29.0" prefWidth="188.0" promptText="Publisher">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="252.0" layoutY="360.0" prefHeight="31.0" prefWidth="141.0" text="Publisher date">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="publisherDate" layoutX="379.0" layoutY="357.0" prefHeight="31.0" prefWidth="188.0" />
+      <JFXTextField fx:id="txtPrice" labelFloat="true" layoutX="254.0" layoutY="404.0" prefHeight="29.0" prefWidth="188.0" promptText="price">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtSuplier" labelFloat="true" layoutX="28.0" layoutY="443.0" prefHeight="29.0" prefWidth="188.0" promptText="Supplier">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="25.0" layoutY="497.0" prefHeight="31.0" prefWidth="141.0" text="remove date">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="removeDate" layoutX="175.0" layoutY="497.0" prefHeight="31.0" prefWidth="188.0" />
+      <Label layoutX="25.0" layoutY="572.0" prefHeight="31.0" prefWidth="141.0" text="Other Details">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtOtherDetails" layoutX="176.0" layoutY="546.0" prefHeight="114.0" prefWidth="188.0" />
+      <JFXTextField fx:id="txtpages" labelFloat="true" layoutX="28.0" layoutY="404.0" prefHeight="29.0" prefWidth="188.0" promptText="Pages">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="659.0" layoutY="104.0" prefHeight="31.0" prefWidth="141.0" text="Category">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="comboRackNo" layoutX="842.0" layoutY="173.0" prefHeight="31.0" prefWidth="105.0" />
+      <Label layoutX="659.0" layoutY="173.0" prefHeight="31.0" prefWidth="141.0" text="Rack No">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="comboRowNo" layoutX="843.0" layoutY="219.0" prefHeight="31.0" prefWidth="105.0" />
+      <Label layoutX="659.0" layoutY="224.0" prefHeight="31.0" prefWidth="105.0" text="Row No">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="comboColoumNo" layoutX="843.0" layoutY="270.0" prefHeight="31.0" prefWidth="105.0" />
+      <Label layoutX="659.0" layoutY="270.0" prefHeight="31.0" prefWidth="124.0" text="coloum No">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="659.0" layoutY="310.0" prefHeight="31.0" prefWidth="124.0" text="Dv. Decimal">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtDvDecimal1" layoutX="842.0" layoutY="310.0" prefHeight="31.0" prefWidth="105.0" />
+      <AnchorPane layoutX="645.0" layoutY="372.0" prefHeight="246.0" prefWidth="455.0" style="-fx-background-color: lightBlue;">
+         <children>
+            <Label layoutX="83.0" layoutY="24.0" prefHeight="31.0" prefWidth="124.0" text="Rack No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtRackNo" layoutX="239.0" layoutY="24.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="65.0" prefHeight="31.0" prefWidth="124.0" text="Row No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtRowNo" layoutX="239.0" layoutY="65.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="108.0" prefHeight="31.0" prefWidth="124.0" text="Coloum No">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtColoumNo" layoutX="239.0" layoutY="108.0" prefHeight="31.0" prefWidth="105.0" />
+            <Label layoutX="83.0" layoutY="151.0" prefHeight="31.0" prefWidth="124.0" text="Dv.Decimal">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtDvDecimal" layoutX="239.0" layoutY="151.0" prefHeight="31.0" prefWidth="105.0" />
+            <JFXButton fx:id="btnAddPosition" layoutX="332.0" layoutY="201.0" onMouseClicked="#addNewPosition" prefHeight="31.0" prefWidth="105.0" style="-fx-background-color: blue;" text="Add" textFill="#f5f3f3">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <JFXButton fx:id="btnaddBook" buttonType="RAISED" layoutX="923.0" layoutY="642.0" onMouseClicked="#AddBooks" prefHeight="41.0" prefWidth="187.0" style="-fx-background-color: blue;" text="Add Book" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="btnHome" buttonType="RAISED" layoutX="692.0" layoutY="642.0" onMouseClicked="#openHome" prefHeight="41.0" prefWidth="187.0" style="-fx-background-color: green;" text="Home" textFill="#f2eded">
+         <font>
+            <Font name="Arial Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <ImageView fx:id="picImg" fitHeight="104.0" fitWidth="105.0" layoutX="393.0" layoutY="136.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="lblPhotoClick" layoutX="375.0" layoutY="104.0" onMouseClicked="#addPic" prefHeight="31.0" prefWidth="197.0" text="Click here to add Photo" />
+      <JFXTextField fx:id="txtCatagory" layoutX="839.0" layoutY="105.0" prefHeight="31.0" prefWidth="169.0" />
+   </children>
+</AnchorPane>
